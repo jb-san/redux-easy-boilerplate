@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 // import 'bootstrap-webpack';
 
 /* global styles for app */
-import './styles/app.scss';
+import '../../assets/styles/app.scss';
 
 /* application components */
 import { Header } from 'components/Header';
